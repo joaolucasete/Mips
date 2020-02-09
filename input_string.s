@@ -26,7 +26,6 @@
 		move $a0, $t1
 		li $v0, 4
 		syscall
-	
 	li $v0, 10
 	syscall
 		
